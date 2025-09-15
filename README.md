@@ -43,7 +43,7 @@
 - **Monopol Game 🎲🏠 (C++)**:  
   A Monopoly-inspired board game created in C++. Features player turns, chance mechanics, and property management. Includes a game simulation demo.  
   ![Monopol Game Demo](monopol-demo.gif)  
-  [Monopol Repository](https://github.com/RoeYeoR/Monopol)
+  [Monopol Repository](https://github.com/RoeYeoR/Monopol_Game)
 
 - **Aqua Fun 🌊🐠**:  
   An endless runner mobile game built with Unity, available on Google Play. Combines fast-paced gameplay with colorful ocean-themed visuals.  
@@ -57,6 +57,5 @@
 
 ---
 
-✨ For more details about my experience and background, check out my  
-[CV (Roey Shmilovich)](RoeyShmilovich.pdf).
+
 
