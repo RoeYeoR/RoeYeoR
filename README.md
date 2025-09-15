@@ -53,7 +53,6 @@
     <img src="3.png" height="400"/>
     <img src="4.png" height="400"/>
     <img src="6.png" height="400"/>
-    <img src="7.png" height="400"/>
   </div>
   [Aqua Fun on Google Play](https://play.google.com/store/apps/details?id=com.Mastik.AquaFun)
 
