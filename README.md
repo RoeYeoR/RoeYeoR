@@ -39,23 +39,29 @@
   ![Tori App Demo](ToriApp.gif)  
   [Tori App Repository](https://github.com/RoeYeoR/Tori)
 
-- **Monopol Game 🎲🏠 (C++)**:  
-  A Monopoly-inspired board game created in C++. Features player turns, chance mechanics, and property management.  
-  
-  ![Monopol Game Demo](MonopolGame.gif)  
-  [Monopol Repository](https://github.com/RoeYeoR/Monopol_Game)
-
-- **Aqua Fun 🌊🐠**:  
-  An endless runner mobile game built with Unity, available on Google Play. Combines fast-paced gameplay with colorful ocean-themed visuals.  
-  
-  <img src="https://play-lh.googleusercontent.com/GFFkqN4r7Z0GhG_3d0zT7NfItF9iKZomskni8D_FiY5G6r0nOUGpImW44kFJxR2X4Q=w2560-h1440" width="250"/>  
-  [Aqua Fun on Google Play](https://play.google.com/store/apps/details?id=com.Mastik.AquaFun)
-
 - **Mitron 3D Shooter 🧟‍♂️🔫**:  
   A zombie survival shooter published on Google Play. Features creative enemy behavior, smooth controls, and mobile performance optimization.  
   
   ![Mitron 3D Shooter Gameplay](Mitron3DShooting.gif)  
   [Mitron on Google Play](https://play.google.com/store/apps/details?id=com.mastik.mitron)
+
+- **Aqua Fun 🌊🐠**:  
+  An endless runner mobile game built with Unity, available on Google Play. Combines fast-paced gameplay with colorful ocean-themed visuals.  
+  
+  <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
+    <img src="2.png" height="400"/>
+    <img src="3.png" height="400"/>
+    <img src="4.png" height="400"/>
+    <img src="6.png" height="400"/>
+    <img src="7.png" height="400"/>
+  </div>
+  [Aqua Fun on Google Play](https://play.google.com/store/apps/details?id=com.Mastik.AquaFun)
+
+- **Monopol Game 🎲🏠 (C++)**:  
+  A Monopoly-inspired board game created in C++. Features player turns, chance mechanics, and property management.  
+  
+  ![Monopol Game Demo](MonopolGame.gif)  
+  [Monopol Repository](https://github.com/RoeYeoR/Monopol_Game)
 
 ---
 
