@@ -45,6 +45,12 @@
   ![Mitron 3D Shooter Gameplay](Mitron3DShooting.gif)  
   [Mitron on Google Play](https://play.google.com/store/apps/details?id=com.mastik.mitron)
 
+- **Monopol Game 🎲🏠 (C++)**:  
+  A Monopoly-inspired board game created in C++. Features player turns, chance mechanics, and property management.  
+  
+  ![Monopol Game Demo](MonopolGame.gif)  
+  [Monopol Repository](https://github.com/RoeYeoR/Monopol_Game)
+
 - **Aqua Fun 🌊🐠**:  
   An endless runner mobile game built with Unity, available on Google Play. Combines fast-paced gameplay with colorful ocean-themed visuals.  
   
@@ -56,11 +62,7 @@
   </div>
   [Aqua Fun on Google Play](https://play.google.com/store/apps/details?id=com.Mastik.AquaFun)
 
-- **Monopol Game 🎲🏠 (C++)**:  
-  A Monopoly-inspired board game created in C++. Features player turns, chance mechanics, and property management.  
-  
-  ![Monopol Game Demo](MonopolGame.gif)  
-  [Monopol Repository](https://github.com/RoeYeoR/Monopol_Game)
+
 
 ---
 
