@@ -16,7 +16,7 @@
 - **Email:** roeyshmil09@gmail.com  
 - **LinkedIn:** [Roey Shmilovich](https://www.linkedin.com/in/roey-shmilo/)  
 - **Google Play Portfolio:** [ByteSpark on Google Play](https://play.google.com/store/apps/developer?id=ByteSpark)
-- **Website Portfolio:** [Roey Shmilovich](https://roeyeor.github.io/Unity_Website/)
+- **Website Portfolio:** [Unity Website](https://roeyeor.github.io/Unity_Website/)
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
