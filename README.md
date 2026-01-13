@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roey Shmilovich</h1>
 
-<h3 align="center">Software Engineer & Full Stack & Game Developer passionate about creative apps, scalable systems, and impactful user experiences. 🚀🎮</h3>
+<h3 align="center">Software Engineer | Full Stack | Game Developer
+  <br>
+  Passionate about creative apps, scalable systems, and impactful user experiences. 🚀🎮</h3>
 
 <h3 align="left">🧑‍💻 About Me:</h3>
 
