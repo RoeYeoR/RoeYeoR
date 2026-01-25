@@ -1,4 +1,4 @@
-<img width="436" height="234" alt="image" src="https://github.com/user-attachments/assets/66f8156b-02cd-47f0-8d99-511c36c996a3" /><h1 align="center">Hi 👋, I'm Roey </h1>
+<h1 align="center">Hi 👋, I'm Roey </h1>
 
 <h3 align="center">Software Engineer | Full Stack | Game Developer
   <br>
