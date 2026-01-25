@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roey Shmilovich</h1>
+<h1 align="center">Hi 👋, I'm Roey </h1>
 
 <h3 align="center">Software Engineer | Full Stack | Game Developer
   <br>
