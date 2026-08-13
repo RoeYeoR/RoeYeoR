@@ -15,10 +15,10 @@
 
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
-<h3 align="center"> **Email:** roeyshmil09@gmail.com  </h3> </br>
-<h3 align="center"> **LinkedIn:** [Roey Shmilovich](https://www.linkedin.com/in/roey-shmilo/) </h3> </br>
-<h3 align="center"> **Google Play Portfolio:** [ByteSpark](https://play.google.com/store/apps/developer?id=ByteSpark)</h3> </br>
-<h3 align="center"> **Chess Multiplayer:** [RoeyChess](https://roeychess-486015830819.us-west1.run.app)</h3> </br>
+<h3 align="center"> **Email:** roeyshmil09@gmail.com  </h3>
+<h3 align="center"> **LinkedIn:** [Roey Shmilovich](https://www.linkedin.com/in/roey-shmilo/) </h3>
+<h3 align="center"> **Google Play Portfolio:** [ByteSpark](https://play.google.com/store/apps/developer?id=ByteSpark)</h3>
+<h3 align="center"> **Chess Multiplayer:** [RoeyChess](https://roeychess-486015830819.us-west1.run.app)</h3> 
 <h3 align="center"> **Website Portfolio:** [Unity Portfolio](https://roey-projects-999887439364.europe-west1.run.app/) </h3>
 </p>
 
