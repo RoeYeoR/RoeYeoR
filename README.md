@@ -6,14 +6,14 @@
 
 <h3 align="left">🧑‍💻 About Me:</h3>
 
-<ul>
+<ul align="center">
   <li>📚 <strong>Lifelong learner</strong> with a strong background in Object-Oriented Programming, algorithms, and performance optimization.</li>
   <li>🌐 Experienced in full-stack applications, AI-augmented engineering, Unity game development, and scalable cloud-integrated systems.</li>
   <li>🚀 Published games and apps on Google Play, always aiming to merge creativity with solid engineering practices.</li>
 </ul>
 
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="center">📫 Connect with me:</h3>
 
 - **Email:** roeyshmil09@gmail.com  
 - **LinkedIn:** [Roey Shmilovich](https://www.linkedin.com/in/roey-shmilo/)  
@@ -21,7 +21,7 @@
 - **Chess Multiplayer:** [RoeyChess](https://roeychess-486015830819.us-west1.run.app) 
 - **Website Portfolio:** [Unity Portfolio](https://roey-projects-999887439364.europe-west1.run.app/)
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
