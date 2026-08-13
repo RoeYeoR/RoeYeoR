@@ -40,7 +40,9 @@
 - **Voice Agent Builder 🎙️🤖**:  
   An end-to-end AI voice automation platform built with **Next.js, Claude (Anthropic API), Vapi, and Cal.com API**. Allows users to build and configure autonomous voice agents via natural chat to conduct phone calls, qualify leads, and schedule calendar appointments automatically.  
   
-<video src="https://github.com/user-attachments/assets/58ac0a61-556f-45a3-9cde-21b6e9ee26f8" autoplay loop muted playsinline width="100%"></video>
+🔊 *Click play to watch the demo with audio:*
+
+  <video src="https://github.com/user-attachments/assets/58ac0a61-556f-45a3-9cde-21b6e9ee26f8" poster="demo_thumbnail.png" controls width="100%"></video>
 
 - **Tori Business App 📊💼**:  
   Contributed to a **React-based business management app**. Practiced Agile teamwork, Git collaboration, modular architecture, and code reviews.  
