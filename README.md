@@ -4,7 +4,7 @@
   <br>
   Passionate about creative apps, AI-driven solutions, scalable systems, and impactful user experiences. </br> 🚀🤖🎮</h3>
 
-<h3 align="left">🧑‍💻 About Me:</h3>
+<h3 align="center">🧑‍💻 About Me:</h3>
 
 <ul align="center">
   <li>📚 <strong>Lifelong learner</strong> with a strong background in Object-Oriented Programming, algorithms, and performance optimization.</li>
@@ -22,7 +22,7 @@
 - **Website Portfolio:** [Unity Portfolio](https://roey-projects-999887439364.europe-west1.run.app/)
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
