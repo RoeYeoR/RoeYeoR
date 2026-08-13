@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Roey </h1>
 
-<h3 align="center">Software Engineer | Full Stack | Game Developer
+<h3 align="center">Software Engineer | AI Engineer | Full Stack | Game Developer
   <br>
-  Passionate about creative apps, scalable systems, and impactful user experiences. 🚀🎮</h3>
+  Passionate about creative apps, AI-driven solutions, scalable systems, and impactful user experiences. 🚀🤖🎮</h3>
 
 <h3 align="left">🧑‍💻 About Me:</h3>
 
 <ul>
   <li>📚 <strong>Lifelong learner</strong> with a strong background in Object-Oriented Programming, algorithms, and performance optimization.</li>
-  <li>🌐 Experienced in full-stack applications, Unity game development, and scalable cloud-integrated systems.</li>
+  <li>🌐 Experienced in full-stack applications, AI-augmented engineering, Unity game development, and scalable cloud-integrated systems.</li>
   <li>🚀 Published games and apps on Google Play, always aiming to merge creativity with solid engineering practices.</li>
 </ul>
 
@@ -18,7 +18,7 @@
 - **Email:** roeyshmil09@gmail.com  
 - **LinkedIn:** [Roey Shmilovich](https://www.linkedin.com/in/roey-shmilo/)  
 - **Google Play Portfolio:** [ByteSpark](https://play.google.com/store/apps/developer?id=ByteSpark)
-- **Chess Multiplayer :** [RoeyChess](https://roeychess-486015830819.us-west1.run.app) 
+- **Chess Multiplayer:** [RoeyChess](https://roeychess-486015830819.us-west1.run.app) 
 - **Website Portfolio:** [Unity Portfolio](https://roey-projects-999887439364.europe-west1.run.app/)
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -37,38 +37,29 @@
 
 <h3 align="left">💻 Recent Projects:</h3>
 
+- **Voice Agent Builder 🎙️🤖**:  
+  An end-to-end AI voice automation platform built with **Next.js, Claude (Anthropic API), Vapi, and Cal.com API**. Allows users to build and configure autonomous voice agents via natural chat to conduct phone calls, qualify leads, and schedule calendar appointments automatically.  
+  
+  <video src="VID_20260813_120259_833.mp4" width="100%" controls></video>
+
 - **Tori Business App 📊💼**:  
   Contributed to a **React-based business management app**. Practiced Agile teamwork, Git collaboration, modular architecture, and code reviews.  
   
   ![Tori App Demo](ToriApp.gif)  
   [Tori App Repository](https://github.com/RoeYeoR/Tori)
 
-- **Mitron 3D Shooter 🧟‍♂️🔫**:  
-  A zombie survival shooter published on Google Play. Features creative enemy behavior, smooth controls, and mobile performance optimization.  
+- **Published Unity Mobile Games 🎮📱**:  
+  A collection of published mobile titles on Google Play:  
   
-  ![Mitron 3D Shooter Gameplay](Mitron3DShooting.gif)  
-  [Mitron on Google Play](https://play.google.com/store/apps/details?id=com.mastik.mitron)
-
-- **Monopol Game 🎲🏠 (C++)**:  
-  A Monopoly-inspired board game created in C++. Features player turns, chance mechanics, and property management.  
-  
-  ![Monopol Game Demo](MonopolGame.gif)  
-  [Monopol Repository](https://github.com/RoeYeoR/Monopol_Game)
-
-- **Aqua Fun 🌊🐠**:  
-  An endless runner mobile game built with Unity, available on Google Play. Combines fast-paced gameplay with colorful ocean-themed visuals.  
-  
-  <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
-    <img src="2.png" height="400"/>
-    <img src="3.png" height="400"/>
-    <img src="4.png" height="400"/>
-    <img src="6.png" height="400"/>
-  </div>
-  [Aqua Fun on Google Play](https://play.google.com/store/apps/details?id=com.Mastik.AquaFun)
-
-
-
----
-
-
-
+  - **Mitron 3D Shooter 🧟‍♂️🔫**: Zombie survival shooter featuring creative enemy AI, smooth mobile controls, and performance optimization.  
+    ![Mitron 3D Shooter Gameplay](Mitron3DShooting.gif)  
+    [Mitron on Google Play](https://play.google.com/store/apps/details?id=com.mastik.mitron)  
+    
+  - **Aqua Fun 🌊🐠**: Fast-paced endless runner mobile game with colorful ocean-themed visuals.  
+    <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
+      <img src="2.png" height="400"/>
+      <img src="3.png" height="400"/>
+      <img src="4.png" height="400"/>
+      <img src="6.png" height="400"/>
+    </div>
+    [Aqua Fun on Google Play](https://play.google.com/store/apps/details?id=com.Mastik.AquaFun)
