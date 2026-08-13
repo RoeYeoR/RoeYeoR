@@ -59,7 +59,7 @@
     [Mitron on Google Play](https://play.google.com/store/apps/details?id=com.mastik.mitron)  
     
   - **Aqua Fun 🌊🐠**: Fast-paced endless runner mobile game with colorful ocean-themed visuals.  
-    <div style="display: flex; gap: 30px; overflow-x: auto; padding: 10px 0;">
+    <div style="display: flex; gap: 30px; overflow-x: auto; padding: 50px 0;">
       <img src="2.png" height="400"/>
       <img src="3.png" height="400"/>
       <img src="4.png" height="400"/>
