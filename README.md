@@ -43,8 +43,13 @@
   An end-to-end AI voice automation platform built with **Next.js, Claude (Anthropic API), Vapi, and Cal.com API**. Allows users to build and configure autonomous voice agents via natural chat to conduct phone calls, qualify leads, and schedule calendar appointments automatically.  
  
 
-🔊 **The GIF plays automatically — click it to watch the full demo with audio:**  </br> </br>
-  [![Voice Agent Builder Demo](https://github.com/user-attachments/assets/714dbda2-7d75-44ef-890c-36a5eda04a96)](https://github.com/user-attachments/assets/58ac0a61-556f-45a3-9cde-21b6e9ee26f8)
+🔊 **The GIF plays automatically — click it to watch the full demo with audio:**
+
+  <div align="center">
+    <a href="https://github.com/user-attachments/assets/58ac0a61-556f-45a3-9cde-21b6e9ee26f8">
+      <img src="https://github.com/user-attachments/assets/714dbda2-7d75-44ef-890c-36a5eda04a96" alt="Voice Agent Builder Demo" width="640" />
+    </a>
+  </div>
 
 
 - **Zchuton – Hebrew Rights RAG Assistant ⚖️🤖**:  
