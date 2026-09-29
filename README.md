@@ -45,6 +45,15 @@
 🔊 **Click image to watch demo with audio:**  </br> </br>
   [![Voice Agent Builder Demo](demo_thumbnail.png)](https://github.com/user-attachments/assets/58ac0a61-556f-45a3-9cde-21b6e9ee26f8)
 
+
+- **Zchuton – Hebrew Rights RAG Assistant ⚖️🤖**:  
+  A conversational **RAG** assistant (**Python, FastAPI**) answering questions on Israeli workers' & citizens' rights — grounded **only** in a knowledge base of Kol-Zchut sources, with **cited** answers and a "not found" fallback (no hallucinated legal advice). Built with **Cohere embeddings + reranking**, **Qdrant** vector search, and the **Claude (Anthropic) API**, plus **conversational memory** (query condensing + rolling summary) and an **evaluation harness** (recall@k, MRR, LLM-as-Judge).  
+
+  <img src="https://github.com/user-attachments/assets/89ce84a7-75b4-4588-afae-ffe8bb8c5ed0" alt="Zchuton Demo" width="320" />  
+
+  [Kol Zchut Bot Repository](https://github.com/RoeYeoR/Kol_Zchut_Bot)
+
+
 - **Tori Business App 📊💼**:  
   Contributed to a **React-based business management app**. Practiced Agile teamwork, Git collaboration, modular architecture, and code reviews.  
   
